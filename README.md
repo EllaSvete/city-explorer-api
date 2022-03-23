@@ -23,7 +23,7 @@ Install the necessary things in order to build your live server.
 
 ## Credit and Collaborations
 
-Eden Brekke
+Eden Brekke Tai Egashira
 
 ![Ella and Eden WRRC](/22March2022_WRRC_withElla.png)
 
@@ -33,6 +33,6 @@ Estimate of time needed to complete: __2hrs__
 
 Start time: __3:22___
 
-Finish time: _____
+Finish time: __9:45___
 
-Actual time needed to complete: _____
+Actual time needed to complete: ___7ish hrs?__
