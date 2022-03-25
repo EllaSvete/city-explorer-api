@@ -30,6 +30,7 @@ Eden Brekke Tai Egashira
 ![Ella and Eden WRRC](/22March2022_WRRC_withElla.png)
 
 ![Ella Michelle and Anthony](/wwrc.png)
+![Roger and Ella](/roger&ella.png)
 
 Name of feature: ________________________________
 
