@@ -25,12 +25,13 @@ Install the necessary things in order to build your live server.
 
 Eden Brekke Tai Egashira
 
-![Ella and Ryan](/whiteboard.png)
+![Ella and Ryan](/img/whiteboard.png)
 
-![Ella and Eden WRRC](/22March2022_WRRC_withElla.png)
+![Ella and Eden WRRC](/img/22March2022_WRRC_withElla.png)
 
-![Ella Michelle and Anthony](/wwrc.png)
-![Roger and Ella](/roger&ella.png)
+![Ella Michelle and Anthony](/img/wwrc.png)
+![Roger and Ella](/img/roger&ella.png)
+![Christopher and ELla](/img/christopherAndElla.png)
 
 Name of feature: ________________________________
 
