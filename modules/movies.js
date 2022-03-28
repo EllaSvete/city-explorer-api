@@ -10,7 +10,7 @@ async function getMovies(request, response) {
     //setup cache key
     let key = city + 'Movies';
     //check cache for data
-    if (cache[key] && (Date.now() - cache[key].timestamp) < 5000) {
+    if (cache[key] && (Date.now() - cache[key].timestamp) < 50000) {
       response.status(200).send(cache[key].data);
     } else {
       let url = (`https://api.themoviedb.org/3/search/movie?api_key=${process.env.MOVIE_API_KEY}&query=${city}&total_results=3`);
